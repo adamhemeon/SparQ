@@ -1,0 +1,3 @@
+K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/CMakeFiles/SparQ.dir
+K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/CMakeFiles/edit_cache.dir
+K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/CMakeFiles/rebuild_cache.dir

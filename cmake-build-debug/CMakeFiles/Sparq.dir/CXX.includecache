@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/src/Editor.cpp
+Editor.h
+K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/src/Editor.h
+
+K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/src/Editor.h
+iostream
+-
+algorithm
+-
+fstream
+-
+string
+-
+exception
+-
+regex
+-
+sstream
+-
+LinkedList.h
+K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/src/LinkedList.h
+
+K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/src/LinkedList.h
+string
+-
+
+K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/src/main.cpp
+string
+-
+LinkedList.h
+K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/src/LinkedList.h
+Editor.h
+K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/src/Editor.h
+

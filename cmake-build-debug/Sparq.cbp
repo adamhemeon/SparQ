@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Sparq"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SparQ">
+				<Option output="K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/SparQ.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 SparQ"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SparQ/fast">
+				<Option output="K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/SparQ.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 SparQ/fast"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/src/Editor.cpp">
+			<Option target="SparQ"/>
+		</Unit>
+		<Unit filename="K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/src/Editor.h">
+			<Option target="SparQ"/>
+		</Unit>
+		<Unit filename="K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/src/LinkedList.cpp">
+			<Option target="SparQ"/>
+		</Unit>
+		<Unit filename="K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/src/LinkedList.h">
+			<Option target="SparQ"/>
+		</Unit>
+		<Unit filename="K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/src/main.cpp">
+			<Option target="SparQ"/>
+		</Unit>
+		<Unit filename="K:/NSCC/Year_2/Winter_2021/PROG2400Brian/Projects/Sparq/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
